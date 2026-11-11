@@ -1,0 +1,16 @@
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\bin\Debug\net10.0\Bedingungen2.exe
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\bin\Debug\net10.0\Bedingungen2.deps.json
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\bin\Debug\net10.0\Bedingungen2.runtimeconfig.json
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\bin\Debug\net10.0\Bedingungen2.dll
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\bin\Debug\net10.0\Bedingungen2.pdb
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.AssemblyInfoInputs.cache
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.AssemblyInfo.cs
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.csproj.CoreCompileInputs.cache
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.sourcelink.json
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.dll
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\refint\Bedingungen2.dll
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.pdb
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingungen2.genruntimeconfig.cache
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\ref\Bedingungen2.dll
+C:\Users\Aaka\source\repos\Bedingungen2\Bedingungen2\obj\Debug\net10.0\Bedingun.D68A4CBA.Up2Date
