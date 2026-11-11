@@ -13,6 +13,10 @@
             Console.WriteLine("------------------------------------");
 
             Aufgabe3();
+
+            Console.WriteLine("---------------------------------------");
+
+            Aufgabe4();
         }
 
         static void Aufgabe1()
@@ -80,6 +84,46 @@
                     Console.WriteLine("Durchgefallen");
                     break;
                 }
+            }
+        }
+
+        static void Aufgabe4()
+        {
+            try
+            {
+                Console.WriteLine("Taschenrechner");
+                Console.Write("Gib eine erste Zahl ein: ");
+                int a = int.Parse(Console.ReadLine());
+
+                Console.Write("Gib einen operator ein: ");
+                string op = Console.ReadLine();
+
+                Console.Write("Gib eine zweite Zahl ein: ");
+                int b = int.Parse(Console.ReadLine());
+
+                if (op == "+")
+                {
+                    Console.WriteLine(a + b);
+                }
+                else if (op == "-")
+                {
+                    Console.WriteLine(a - b);
+                }
+                else if (op == "/")
+                {
+                    Console.WriteLine(a / b);
+                }
+                else if (op == "*") 
+                {
+                    Console.WriteLine(a * b);
+                }
+                else
+                {
+                    Console.WriteLine("Invalid operator");
+                }
+            } catch (Exception ex)
+            {
+                Console.WriteLine("Don't write any letters");
             }
         }
     }
